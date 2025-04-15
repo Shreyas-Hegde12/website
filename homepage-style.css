@@ -64,7 +64,7 @@
   .bar-graph > div {float: left; height: 2.9vw; max-height: 14px;}
   .rec1,.rec2,.rec3{filter: hue-rotate(-10deg) opacity(0.75);}
   #watch,#change{
-       width: 21.5vw;
+       width: 21vw;
        height: auto;
        max-width: 100px;
        aspect-ratio: 10/6.4;
@@ -75,7 +75,7 @@
        filter: contrast(1) saturate(1.05) hue-rotate(0deg);
   }
   #change{margin-left: 3%;}
-  #watch p{font-family: acme; font-size: min(4.4vw,22px); color: #fff!important;}
+  #watch p{font-family: acme; font-size: min(4.3vw,22px); color: #fff!important;}
   
   
   #bubbles{position: relative; width: 100%; max-width: 590px; height: auto; aspect-ratio: 16/14.5; overflow: hidden; scroll-behavior:smooth; margin: 3% 0 5% 0;}
